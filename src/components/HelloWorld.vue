@@ -9,6 +9,8 @@
       >.
     </p>
     <h3>Installed CLI Plugins</h3>
+    <div class="test-class">Managert</div>
+    <button class="btn btn-danger">Test Boostratp</button>
     <ul>
       <li>
         <a
