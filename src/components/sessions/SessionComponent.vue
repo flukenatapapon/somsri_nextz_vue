@@ -1,7 +1,7 @@
 <template>
-  <div class="container">Session Work</div>
+  <div class="container"><h1>Session Work</h1></div>
 </template>
 
 <script src="./SessionController.js"></script>
 
-<style></style>
+<style scoped></style>
