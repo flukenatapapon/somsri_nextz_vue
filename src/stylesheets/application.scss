@@ -1,5 +1,23 @@
-@import "bootstrap/scss/bootstrap.scss";
-@import "bootstrap";
+// Import Bootstrap
+@import "./vendors/bootstrap";
+
+// Import Abstracts
+@import "./abstracts/mixins";
+@import "./abstracts/variables";
+
+// Import Components
+@import "./components/buttons";
+@import "./components/carousel";
+
+// Import Core
+@import "./core/reset";
+@import "./core/typography";
+
+// Import Layout
+@import "./layout/navigation";
+
+// Import Pages
+@import "./pages/home";
 
 .test-class {
   background-color: red;
